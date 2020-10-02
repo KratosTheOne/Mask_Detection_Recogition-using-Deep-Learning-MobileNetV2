@@ -1,7 +1,10 @@
 # Mask_Detection_Recogition-using-Deep-Learning-MobileNetV2
 This Repository contains all the files for the Machine Learning Project of Mask detection and recognition using Deep learning, Keras, Transfer learning and the new MobileNetV2.
+
 Read about the documentation of the architecture of MobileNetV2 and transfer learning.
+
 Feel free to share and make upgrades.
+
 Just Download all the files in a folder and the Destination addresses accordingly.
 
 # Requirements:-
