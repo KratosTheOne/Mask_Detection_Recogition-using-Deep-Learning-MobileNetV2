@@ -26,7 +26,9 @@ Just Download all the files in a folder and the Destination addresses accordingl
 
 # Face Detection Models
    *Download the below files and move them to a newfolder and name it Face Detector.
+   
    *Prototxt- https://drive.google.com/file/d/1mvF8Q16nRspw7zdMFX6_ch7adERbRf_g/view?usp=sharing
+   
    *caffemodel- https://drive.google.com/file/d/1FG7TekZIFkWEgvOp0RXAnmWalfiP8CCU/view?usp=sharing
     
 *With this you shloud be good to go!
