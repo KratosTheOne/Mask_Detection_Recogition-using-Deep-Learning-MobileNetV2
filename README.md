@@ -34,4 +34,4 @@ Just Download all the files in a folder and the Destination addresses accordingl
    
    *caffemodel- https://drive.google.com/file/d/1FG7TekZIFkWEgvOp0RXAnmWalfiP8CCU/view?usp=sharing
     
-*With this you shloud be good to go!
+*With this you should be good to go!
